@@ -33,7 +33,7 @@ or in Cowork and add it. It also loads in Claude Code through account sync.
 From this repository in Claude Code:
 
 ```bash
-claude plugin marketplace add safe-security/third-party-risk-management-toolkit
+claude plugin marketplace add akanksha-at-work/third-party-risk-management-toolkit
 claude plugin install third-party-risk-management-toolkit@third-party-risk-management-toolkit
 ```
 

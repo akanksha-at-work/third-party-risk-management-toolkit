@@ -4,10 +4,10 @@
   "version": "0.1.0",
   "description": "Tier vendors by inherent risk, triage security questionnaires, explain external attack-surface findings in business terms, and draft vendor remediation requests.",
   "author": {
-    "name": "SAFE Security"
+    "name": "Akanksha Singh"
   },
-  "homepage": "https://github.com/safe-security/third-party-risk-management-toolkit",
-  "repository": "https://github.com/safe-security/third-party-risk-management-toolkit",
+  "homepage": "https://github.com/akanksha-at-work/third-party-risk-management-toolkit",
+  "repository": "https://github.com/akanksha-at-work/third-party-risk-management-toolkit",
   "license": "MIT",
   "keywords": [
     "third-party-risk",

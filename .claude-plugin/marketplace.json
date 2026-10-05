@@ -2,7 +2,7 @@
   "name": "third-party-risk-management-toolkit",
   "description": "Third-party risk management skills for vendor tiering, questionnaire review, attack-surface findings and remediation requests.",
   "owner": {
-    "name": "SAFE Security"
+    "name": "Akanksha Singh"
   },
   "plugins": [
     {
